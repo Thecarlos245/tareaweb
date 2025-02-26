@@ -1,0 +1,163 @@
+.padre {
+    background-color: rgb(0, 0, 0);
+    width: 1500px;
+    height: 600px;
+    top: 100px;
+
+}
+.hijo {
+    background-color: rgb(111, 5, 251);
+    width: 600px;
+    height: 450px;
+    position: absolute;
+    top: 150px;
+    left: 50px;
+    
+}
+.hijo2 {
+    background-color: rgb(239, 251, 7);
+    width: 600px;
+    height: 450px;
+    position: absolute;
+    top: 150px;
+    left: 850px;
+}
+.cara {
+    background-color: rgb(217, 158, 158);
+    width: 400px;
+    height: 400px;
+    position: absolute;
+    top: 30px;
+    left: 95px;
+    border-radius: 100%;
+}
+.cara2 {
+    background-color: rgb(110, 210, 99);
+    width: 400px;
+    height: 400px;
+    position: absolute;
+    top: 30px;
+    left: 100px;
+    border-radius: 100%;
+
+}
+.ojo {
+    background-color: rgb(0, 255, 208);
+    width: 100px;
+    height: 120px;
+    position: absolute;
+    top: 80px;
+    left: 70px;
+    border-radius: 100%;
+}
+.ojo2 {
+    background-color: rgb(0, 255, 204);
+    width: 100px;
+    height: 120px;
+    position: absolute;
+    top: 80px;
+    left: 230px;
+    border-radius: 100%;
+}
+.boca {
+    background-color: rgb(255, 0, 0);
+    width: 200px;
+    height: 100px;
+    position: absolute;
+    top: 240px;
+    left: 100px;
+    border-radius: 100%;
+}
+.ojito {
+    background-color: rgb(0, 0, 0);
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    top: 35px;
+    left: 25px;
+    border-radius: 100%;
+}
+.ojito2 {
+    background-color: rgb(0, 0, 0);
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    top: 35px;
+    left: 25px;
+    border-radius: 100%;
+
+}
+.labios {
+    background-color: rgb(0, 0, 0);
+    width: 130px;
+    height: 50px;
+    position: absolute;
+    top: 25px;
+    left: 35px;
+    border-radius: 100%;
+}
+.ojo1 {
+    background-color: rgb(255, 255, 255);
+    width: 100px;
+    height: 120px;
+    position: absolute;
+    top: 60px;
+    left: 70px;
+    border-radius: 100%;
+}
+.ojo3 {
+    background-color: rgb(255, 255, 255);
+    width: 100px;
+    height: 120px;
+    position: absolute;
+    top: 60px;
+    left: 230px;
+    border-radius: 100%;
+}
+.ojito3 {
+    background-color: rgb(91, 101, 240);
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    top: 35px;
+    left: 25px;
+    border-radius: 100%;
+}
+.ojito4 {
+    background-color:rgb(91, 101, 240);
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    top: 35px;
+    left: 25px;
+    border-radius: 100%;
+}
+.boquita {
+    background-color: rgb(253, 178, 2);
+    width: 200px;
+    height: 100px;
+    position: absolute;
+    top: 260px;
+    left: 100px;
+    border-radius: 100%;
+}
+.labio {
+    background-color: rgb(238, 9, 185);
+    width: 130px;
+    height: 50px;
+    position: absolute;
+    top: 25px;
+    left: 35px;
+    border-radius: 100%;
+
+}
+.nariz {
+    background-color: rgb(255, 4, 4);
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    top: 180px;
+    left: 165px;
+    border-radius: 100%;
+}
+
